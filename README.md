@@ -3,11 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project - Sales Analysis </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Machine Learning)</b>
+  - (https://github.com/Nithu-Arjunan/Sales-Forecasting)
+- <b>Machine Learning</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
-  - <b>Deep Learning</b>
+- <b>Deep Learning</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - 
 - <b>Python</b>
