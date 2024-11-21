@@ -4,6 +4,7 @@
 
 - <b>Capstone Project - Sales Analysis </b>
   - [Sales Analysis](https://github.com/Nithu-Arjunan/Sales-Forecasting)
+  - [Employee Attrition Prediction](https://github.com/Nithu-Arjunan/Employee-Attrition)
 - <b>Machine Learning</b>
   - [Projects](https://github.com/Nithu-Arjunan/Machine-Learning) <b><i></b></i>
   
