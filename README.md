@@ -19,3 +19,7 @@
 
 [linkedin]: https://linkedin.com/in/nithu-arjunan
 
+[<img align="left">][Gmail]
+
+[gmail]: nithusarin@gmail.com
+
