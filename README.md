@@ -11,7 +11,7 @@
   - [Projects](https://github.com/Nithu-Arjunan/Machine-Learning) <b><i></b></i>
 - <b>PowerBI Projects </b>
   - [Sales Analysis - dashboard](https://github.com/Nithu-Arjunan/Power-BI-projects/blob/main/Sales_Dashboard.pdf)
-  - [Dubizzle dashboard(Web scrapping)](https://github.com/Nithu-Arjunan/Employee-Attrition-Prediction)
+  - [Dubizzle dashboard(Web scrapping)](https://github.com/Nithu-Arjunan/Power-BI-projects/blob/main/Dubizzle_UsedCars.pdf)
   - [Coffee store dashboard](https://github.com/Nithu-Arjunan/Power-BI-projects/blob/main/CoffeeStore_dashboard.pdf)
   
 
