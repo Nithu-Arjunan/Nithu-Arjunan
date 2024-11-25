@@ -14,7 +14,9 @@
   - [Dubizzle dashboard(Web scrapping)](https://github.com/Nithu-Arjunan/Power-BI-projects/blob/main/Dubizzle_UsedCars.pdf)
   - [Coffee store dashboard](https://github.com/Nithu-Arjunan/Power-BI-projects/blob/main/CoffeeStore_dashboard.pdf)
 - <b>Tableau projects </b>
-  - [Sales Analysis - dashboard](https://public.tableau.com/app/profile/nithu.arjunan/viz/FuelAnalysisdashboard/FuelAnalysisDashboard)
+  - [Fuel Analysis - dashboard](https://public.tableau.com/app/profile/nithu.arjunan/viz/FuelAnalysisdashboard/FuelAnalysisDashboard)
+  - [Sales Analysis - dashboard](https://public.tableau.com/app/profile/nithu.arjunan/viz/Tableau_Project_1_17061914670860/Salesdashboard)
+  - [SampleSuperStore - dashboard](https://public.tableau.com/app/profile/nithu.arjunan/viz/SampleSuperstoredashboard_17050682261640/Dashboard1)
 
   
 
