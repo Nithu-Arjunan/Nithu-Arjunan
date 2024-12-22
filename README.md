@@ -2,7 +2,8 @@
   
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Capstone Project - Sales Analysis </b>
+- <b>Capstone Project  </b>
+  - [Autonomous Vehicle Detection](https://github.com/Nithu-Arjunan/AutonomousVehicleDetection)
   - [Sales Analysis](https://github.com/Nithu-Arjunan/Sales-Forecasting)
   - [Employee Attrition Prediction](https://github.com/Nithu-Arjunan/Employee-Attrition-Prediction)
   - [Loan default Analysis](https://github.com/Nithu-Arjunan/Loan-default-Analysis)
