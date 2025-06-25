@@ -2,7 +2,9 @@
   
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Capstone Project  </b>
+- <b>Gen AI Projects  </b>
+  - [Course Projects](https://github.com/Nithu-Arjunan/GenAI_Projects)
+- <b>Capstone Projects  </b>
   - [Autonomous Vehicle Detection](https://github.com/Nithu-Arjunan/AutonomousVehicleDetection)
   - [Sales Analysis](https://github.com/Nithu-Arjunan/Sales-Forecasting)
   - [Employee Attrition Prediction](https://github.com/Nithu-Arjunan/Employee-Attrition-Prediction)
